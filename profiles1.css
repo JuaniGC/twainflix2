@@ -167,6 +167,10 @@ h3 {
     display: none;
   }
 
+  .memberDiv a:nth-child(4) {
+    display: block
+  }
+  
   #mobileuser {
     width: 130px;
     height: 130px;
