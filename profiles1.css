@@ -171,6 +171,7 @@ h3 {
     width: 130px;
     height: 130px;
     margin-top: 60px;
+    display: flex;
   }
 
 }
